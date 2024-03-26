@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/invoie-generator/static/css/main.c93c202e.css",
+    "main.js": "/invoie-generator/static/js/main.819cb68b.js",
+    "static/js/498.0afac0b9.chunk.js": "/invoie-generator/static/js/498.0afac0b9.chunk.js",
+    "static/js/703.ab30208d.chunk.js": "/invoie-generator/static/js/703.ab30208d.chunk.js",
+    "static/js/528.2d4f97b9.chunk.js": "/invoie-generator/static/js/528.2d4f97b9.chunk.js",
+    "index.html": "/invoie-generator/index.html",
+    "main.c93c202e.css.map": "/invoie-generator/static/css/main.c93c202e.css.map",
+    "main.819cb68b.js.map": "/invoie-generator/static/js/main.819cb68b.js.map",
+    "498.0afac0b9.chunk.js.map": "/invoie-generator/static/js/498.0afac0b9.chunk.js.map",
+    "703.ab30208d.chunk.js.map": "/invoie-generator/static/js/703.ab30208d.chunk.js.map",
+    "528.2d4f97b9.chunk.js.map": "/invoie-generator/static/js/528.2d4f97b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c93c202e.css",
+    "static/js/main.819cb68b.js"
+  ]
+}
